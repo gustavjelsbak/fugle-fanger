@@ -1,0 +1,8 @@
+.env
+.env.*
+**/.env
+**/.env.*
+**/.dev.vars
+**/.dev.vars.*
+**/*.tsbuildinfo
+.DS_Store
